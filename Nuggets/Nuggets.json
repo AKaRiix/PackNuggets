@@ -1,0 +1,49 @@
+{
+	"FennecBlanche Nuggets": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_B.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_nuggets.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecJaune Nuggets": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_Y_nuggets.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"FennecNoir Nuggets": {
+		"BodyID": 4284,
+		"SkinID": 0,
+		"Chassis": {
+			"Diffuse": "Chassis_Grain_D.png"
+		},
+		"Body": {
+			"Diffuse": "fen_diffuse_noir_nuggets.png",
+			"Skin": "fen_skin.png"
+		}
+    },
+	"Octane Nuggets": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "HyperBeast_Diffuse_Nuggets.png",
+			
+			"Skin": "HyperBeast_Diffuse_Nuggets.png"
+		}
+    }
+}
