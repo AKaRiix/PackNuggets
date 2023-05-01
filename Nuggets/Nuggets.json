@@ -45,5 +45,19 @@
 			
 			"Skin": "HyperBeast_Diffuse_Nuggets.png"
 		}
+    },
+	"OctaneNoir Nuggets": {
+		"BodyID": 23,
+		"SkinID": 0,
+		"Chassis": {
+		"Diffuse": "HyperBeast_Chassis_O.png"
+
+		},
+		"Body": {
+			
+			"Diffuse": "octane_noir_nuggets.png",
+			
+			"Skin": "octane_noir_nuggets.png"
+		}
     }
 }
